@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a software developer with a passion for creating innovative and efficient solutions.<br>I specialize in C#, ASP.NET Core. <br>Currently, I'm working on a project management tool similar to Asana and Monday.com, incorporating features like user roles, permissions management, and more.
 
-[![](https://visitcount.itsvg.in/api?id=dogaaydinn&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dogaaydinn&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 # Hello, I'm Doğa! 👋
 
