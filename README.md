@@ -37,6 +37,9 @@ I'm a software developer with a passion for creating innovative and efficient so
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogaaydinn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dogaaydinn&theme=radical)
+
 # Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dogaaydinn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -79,10 +82,6 @@ I'm a software developer with a passion for creating innovative and efficient so
 
 # 🧰 Version Control
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="50" height="50" />
-
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dogaaydinn&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dogaaydinn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
