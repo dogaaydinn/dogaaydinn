@@ -7,6 +7,7 @@ I'm a software developer with a passion for creating innovative and efficient so
 
 [![GitHub followers](https://img.shields.io/github/followers/dogaaydinn?label=Follow&style=social)](https://github.com/dogaaydinn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dogaaydinn)
+[![Medium]([https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dogaaydinn](https://medium.com/@dogaaydin5))
 
 ## 🚀 About Me
 
