@@ -9,10 +9,6 @@ I'm a software developer with a passion for creating innovative and efficient so
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/doga.aydin1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dogaaydinn) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dogaaydin5)[![Dev Community](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dogaaydinn)
 
 
-## 🚀 About Me
-
-I'm a software developer with a passion for creating innovative and efficient solutions. I specialize in C#, ASP.NET Core. Currently, I'm working on a project management tool similar to Asana and Monday.com, incorporating features like user roles, permissions management, and more.
-
 ## 🛠️ Skills
 
 - **Languages**: C#, TypeScript, JavaScript, Python
