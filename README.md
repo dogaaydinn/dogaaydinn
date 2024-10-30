@@ -15,6 +15,9 @@
   </p>
 </div>
 
+## 🔥 𝖲𝗍𝗋𝖾𝖺𝗄 𝖲𝗍𝖺𝗍𝗌
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dogaaydinn&theme=radical)
 
 ## 🌐 𝖲𝗈𝖼𝗂𝖺𝗅𝗌 𝖺𝗇𝖽 𝖢𝗈𝗇𝗍𝖺𝖼𝗍𝗌:
 
@@ -38,7 +41,7 @@
   
 ## 🛠️ 𝖲𝗄𝗂𝗅𝗅𝗌
 
-- 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: 𝙲#, 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝, 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝, 𝙿𝚢𝚝𝚑𝚘𝚗   <br>
+- 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: 𝙲#, 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝, 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝, 𝙿𝚢𝚝𝚑𝚘𝚗   <br>
 - 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀: 𝙰𝚂𝙿.𝙽𝙴𝚃 𝙲𝚘𝚛𝚎, 𝙴𝚗𝚝𝚒𝚝𝚢 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔, 𝚆𝙿𝙵, 𝚁𝚎𝚊𝚌𝚝, 𝚅𝚞𝚎.𝚓𝚜  <br>
 - 𝗧𝗼𝗼𝗹𝘀 & 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀: 𝚁𝚒𝚍𝚎𝚛, 𝚅𝚂 𝙲𝚘𝚍𝚎, 𝙶𝚒𝚝, 𝙿𝚘𝚜𝚝𝚖𝚊𝚗, 𝙳𝚊𝚝𝚊𝙶𝚛𝚒𝚍, 𝚆𝚎𝚋𝚂𝚝𝚘𝚛𝚖  <br>
 - 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: 𝙼𝚢𝚂𝚀𝙻, 𝚂𝚀𝙻 𝚂𝚎𝚛𝚟𝚎𝚛  <br>
@@ -66,9 +69,6 @@
   </a>
   <br>
 
-<h2> <strong> 📚 𝖫𝗈𝗇𝗀-𝖳𝖾𝗋𝗆 𝖦𝗈𝖺𝗅 </strong> <img src="./assets/borderseparator.gif"/> </h2>  <br>
-
-𝙼𝚢 𝚕𝚘𝚗𝚐-𝚝𝚎𝚛𝚖 𝚐𝚘𝚊𝚕 𝚒𝚜 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝗖𝗵𝗶𝗲𝗳 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗢𝗳𝗳𝗶𝗰𝗲𝗿 (𝗖𝗧𝗢). 𝙸 𝚊𝚒𝚖 𝚝𝚘 𝚕𝚎𝚊𝚍 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚝𝚑𝚊𝚝 𝚙𝚞𝚜𝚑 𝚝𝚑𝚎 𝚋𝚘𝚞𝚗𝚍𝚊𝚛𝚒𝚎𝚜 𝚘𝚏 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚊𝚗𝚍 𝚍𝚛𝚒𝚟𝚎 𝚖𝚎𝚊𝚗𝚒𝚗𝚐𝚏𝚞𝚕 𝚒𝚖𝚙𝚊𝚌𝚝 𝚒𝚗 𝚝𝚑𝚎 𝚒𝚗𝚍𝚞𝚜𝚝𝚛𝚢. 𝙸 𝚊𝚖 𝚌𝚘𝚖𝚖𝚒𝚝𝚝𝚎𝚍 𝚝𝚘 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚘𝚞𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚐𝚛𝚘𝚠𝚝𝚑, 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜 𝚒𝚗 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐, 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚝𝚒𝚘𝚗, 𝚊𝚗𝚍 𝙸𝚃 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 𝚝𝚘 𝚙𝚛𝚎𝚙𝚊𝚛𝚎 𝚖𝚢𝚜𝚎𝚕𝚏 𝚏𝚘𝚛 𝚝𝚑𝚒𝚜 𝚕𝚎𝚊𝚍𝚎𝚛𝚜𝚑𝚒𝚙 𝚛𝚘𝚕𝚎.
 
 ## 💼 𝖯𝗋𝗈𝗃𝖾𝖼𝗍𝗌
 
@@ -76,16 +76,12 @@
 <a href="https://github.com/dogaaydinn/LeetCodeProblems"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=LeetCodeProblems&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="LeetCodeProblems"></a>
 <a href="https://github.com/dogaaydinn/SchoolManagementSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=SchoolManagementSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SchoolManagementSystem"></a>
 <a href="https://github.com/dogaaydinn/PMT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=PMT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="PMT"></a>
-<a href="https://github.com/dogaaydinn/LearningPath"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=LearningPath&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="LearningPath"></a>  
+<a href="https://github.com/dogaaydinn/LearningPath"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=LearningPath&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="LearningPath"> </a><a href="https://github.com/dogaaydinn/PMT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=LeetCodeProblems&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Project Management Tools"></a>
 
   <h3> <strong> 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌, 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌 𝖺𝗇𝖽 𝖳𝗈𝗈𝗅𝗌
  </strong></h3>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vite,vue,webstorm,html,css,tailwind,js,ts,react,redux,java,arduino,mysql,bootstrap,redux,rider,selenium,devto,postman,figma" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vite,vue,webstorm,html,css,tailwind,js,ts,react,redux,java,arduino,mysql,bootstrap,rider,selenium,devto,postman,figma" alt="skills logos" />
   <br> 
-
-# 💻 𝖳𝖾𝖼𝗁 𝖲𝗍𝖺𝖼𝗄:
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 𝖦𝗂𝗍𝖧𝗎𝖻 𝖲𝗍𝖺𝗍𝗌:
 
@@ -104,17 +100,9 @@
 
   <a href="https://github.com/dogaaydinn/github-readme-activity-graph"><img alt="dogaaydin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dogaaydinn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-## 🔥 𝖲𝗍𝗋𝖾𝖺𝗄 𝖲𝗍𝖺𝗍𝗌
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dogaaydinn&theme=radical)
 
 ## 🏆 𝖦𝗂𝗍𝖧𝗎𝖻 𝖳𝗋𝗈𝗉𝗁𝗂𝖾𝗌
 ![](https://github-profile-trophy.vercel.app/?username=dogaaydinn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### 🔝 𝖳𝗈𝗉 𝖢𝗈𝗇𝗍𝗋𝗂𝖻𝗎𝗍𝖾𝖽 𝖱𝖾𝗉𝗈
-![](https://github-contributor-stats.vercel.app/api?username=dogaaydinn&limit=50&theme=dark&combine_all_yearly_contributions=true)
-
 
 ---
 
