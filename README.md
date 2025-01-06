@@ -80,7 +80,7 @@
 
   <h3> <strong> 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌, 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌 𝖺𝗇𝖽 𝖳𝗈𝗈𝗅𝗌
  </strong></h3>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vite,vue,webstorm,html,css,tailwind,js,ts,react,redux,java,arduino,mysql,docker,postgres,bootstrap,rider,selenium,devto,postman,figma,docker,postgres,azure" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vite,vue,webstorm,html,css,tailwind,js,ts,react,redux,java,arduino,mysql,docker,postgres,bootstrap,rider,selenium,devto,postman,figma,docker,postgres,azure,python" alt="skills logos" />
   <br> 
 
 # 📊 𝖦𝗂𝗍𝖧𝗎𝖻 𝖲𝗍𝖺𝗍𝗌:
