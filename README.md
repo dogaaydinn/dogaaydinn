@@ -72,7 +72,8 @@
 
 ## 💼 𝖯𝗋𝗈𝗃𝖾𝖼𝗍𝗌
 
-
+<a href="https://github.com/dogaaydinn/Geo_Sentiment_Climate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=Geo_Sentiment_Climate&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Geo_Sentiment_Climate"></a>
+<a href="https://github.com/dogaaydinn/EasyBuy.BE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=EasyBuy.BE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="EasyBuy.BE"></a>
 <a href="https://github.com/dogaaydinn/LeetCodeProblems"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=LeetCodeProblems&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="LeetCodeProblems"></a>
 <a href="https://github.com/dogaaydinn/SchoolManagementSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=SchoolManagementSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SchoolManagementSystem"></a>
 <a href="https://github.com/dogaaydinn/PMT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=PMT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="PMT"></a>
