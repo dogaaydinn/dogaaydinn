@@ -17,7 +17,7 @@
 
 ## 🔥 𝖲𝗍𝗋𝖾𝖺𝗄 𝖲𝗍𝖺𝗍𝗌
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dogaaydinn&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dogaaydinn&theme=radical)](https://git.io/streak-stats)
 
 ## 🌐 𝖲𝗈𝖼𝗂𝖺𝗅𝗌 𝖺𝗇𝖽 𝖢𝗈𝗇𝗍𝖺𝖼𝗍𝗌:
 
