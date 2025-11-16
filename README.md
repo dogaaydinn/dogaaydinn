@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto+mono&weight=600&size=26&pause=2017&color=CE24F7&width=435&lines=HEY%2C+I'm+DO%C4%9EA+" alt="Typing SVG" /></a>
 
-[![](https://visitcount.itsvg.in/api?id=dogaaydinn&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=dogaaydinn)
 [![GitHub followers](https://img.shields.io/github/followers/dogaaydinn?label=Follow&style=social)](https://github.com/dogaaydinn)
 
 <div style="display: flex; align-items: center;">
