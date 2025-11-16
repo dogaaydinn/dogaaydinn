@@ -1,111 +1,317 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto+mono&weight=600&size=26&pause=2017&color=CE24F7&width=435&lines=HEY%2C+I'm+DO%C4%9EA+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto+mono&weight=600&size=28&pause=2017&color=CE24F7&width=600&lines=HEY%2C+I'M+DO%C4%9EA+AYDIN" alt="Typing SVG" /></a>
 
-![](https://komarev.com/ghpvc/?username=dogaaydinn)
-[![GitHub followers](https://img.shields.io/github/followers/dogaaydinn?label=Follow&style=social)](https://github.com/dogaaydinn)
-
-<div style="display: flex; align-items: center;">
-  <a href="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" style="width: 160px; max-width: 100%;">
-  </a>
-  <p style="margin-left: 15px;">
-𝙸'𝚖 𝚊 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚠𝚒𝚝𝚑 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚏𝚘𝚛 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝚊𝚗𝚍 𝚎𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜.  <br>
-𝙸 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎 𝚒𝚗 𝙲#, 𝙰𝚂𝙿.𝙽𝙴𝚃 𝙲𝚘𝚛𝚎, 𝙴𝙵 𝙲𝚘𝚛𝚎. <br>
-𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, 𝙸 𝚜𝚘𝚕𝚟𝚎 𝚕𝚎𝚎𝚝𝚌𝚘𝚍𝚎 𝚚𝚞𝚎𝚜𝚝𝚒𝚘𝚗𝚜, 𝚠𝚛𝚒𝚝𝚎 𝚋𝚕𝚘𝚐 𝚙𝚘𝚜𝚝𝚜, 𝚒𝚖𝚙𝚛𝚘𝚟𝚎 𝚖𝚢𝚜𝚎𝚕𝚏 𝚒𝚗 𝚌# 𝚊𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚝𝚘𝚙𝚒𝚌𝚜, 𝚊𝚗𝚍 𝚐𝚎𝚝 𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎𝚜 𝚝𝚘 𝚊𝚌𝚑𝚒𝚎𝚟𝚎 𝚖𝚢 𝚐𝚘𝚊𝚕𝚜 𝚘𝚗 𝚌𝚘𝚞𝚛𝚜𝚎𝚛𝚊. <br>
-
-  </p>
-</div>
-
-## 🔥 𝖲𝗍𝗋𝖾𝖺𝗄 𝖲𝗍𝖺𝗍𝗌
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dogaaydinn&theme=radical)](https://git.io/streak-stats)
-
-## 🌐 𝖲𝗈𝖼𝗂𝖺𝗅𝗌 𝖺𝗇𝖽 𝖢𝗈𝗇𝗍𝖺𝖼𝗍𝗌:
-
-<p>
-  <a href="https://instagram.com/doga.aydin1">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"alt="Instagram" style="max-width: 100%;"/>
-  </a>
-  <a href="https://medium.com/@dogaaydin5">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" style="max-width: 100%;"/>
-  </a>
-  <a href="https://dev.to/dogaaydinn">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Community" style="max-width: 100%;"/>
-  </a>
-  <a href="mailto:dogaaydin5@gmail.com"> <img alt="Doğa Aydın's Email Address" src="https://camo.githubusercontent.com/31ad9fb1c9eb1ff0cb02c27cf9b11751cc5862206a61f95ceb12c9c4d66cbd48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"> </a>
-<a href="https://linkedin.com/in/dogaaydinn"><img alt="Doğa Aydın's LinkedIn" src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://leetcode.com/u/meatballrain/"><img alt="Doğa Aydın's LeetCode" src="https://camo.githubusercontent.com/90f59cd171a5b04abc15c6e0b550324419045323db6ee36a078465fd5bdfa924/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c656574436f64652d4646413131363f7374796c653d666f722d7468652d6261646765266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=black" style="max-width: 100%;"></a>
+<p align="center">
+  <strong>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝙳𝚒𝚜𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 & 𝙰𝙸 𝙸𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎</strong>
 </p>
 
-
-
-  
-## 🛠️ 𝖲𝗄𝗂𝗅𝗅𝗌
-
-- 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: 𝙲#, 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝, 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝, 𝙿𝚢𝚝𝚑𝚘𝚗   <br>
-- 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀: 𝙰𝚂𝙿.𝙽𝙴𝚃 𝙲𝚘𝚛𝚎, 𝙴𝚗𝚝𝚒𝚝𝚢 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔, 𝚆𝙿𝙵, 𝚁𝚎𝚊𝚌𝚝, 𝚅𝚞𝚎.𝚓𝚜  <br>
-- 𝗧𝗼𝗼𝗹𝘀 & 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀: 𝚁𝚒𝚍𝚎𝚛, 𝚅𝚂 𝙲𝚘𝚍𝚎, 𝙶𝚒𝚝, 𝙿𝚘𝚜𝚝𝚖𝚊𝚗, 𝙳𝚊𝚝𝚊𝙶𝚛𝚒𝚍, 𝚆𝚎𝚋𝚂𝚝𝚘𝚛𝚖  <br>
-- 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: 𝙼𝚢𝚂𝚀𝙻, 𝚂𝚀𝙻 𝚂𝚎𝚛𝚟𝚎𝚛, Postgres <br>
-- 𝗢𝘁𝗵𝗲𝗿: 𝚁𝙴𝚂𝚃 𝙰𝙿𝙸𝚜, 𝙼𝚒𝚌𝚛𝚘𝚜𝚎𝚛𝚟𝚒𝚌𝚎𝚜, 𝙽-𝚃𝚒𝚎𝚛 𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎  <br>
-
-
-
- <h2> <strong> 📚 𝖡𝗅𝗈𝗀 𝖢𝗈𝗇𝗍𝖾𝗇𝗍𝗌 </strong> <img src="./assets/borderseparator.gif"/> </h2>  <br>
-  
-  <a href="https://dev.to/dogaaydinn/from-arpanet-to-the-internet-the-birth-and-evolutionary-journey-of-technology-190c" target="_blank" style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Logo">
-    <span>From ARPANET to the Internet: The Birth and Evolutionary Journey of Technology</span>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dogaaydinn&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/dogaaydinn?tab=followers">
+    <img src="https://img.shields.io/github/followers/dogaaydinn?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-    <br>
-
-  <a href="https://dev.to/dogaaydinn/journey-through-the-net-world-behind-old-and-new-names-393h" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Logo" >
-    <span>Journey Through the Net: World Behind Old and New Names</span>
+  <a href="https://github.com/dogaaydinn">
+    <img src="https://img.shields.io/github/stars/dogaaydinn?label=Stars&style=social" alt="GitHub Stars" />
   </a>
-
-  <br>
-  <a href="https://dev.to/dogaaydinn/the-history-and-importance-of-c-in-the-software-industry-if2" target="_blank" style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Logo" >
-    <span>The History and Importance of C# in the Software Industry</span>
-  </a>
-  <br>
-
-
-## 💼 𝖯𝗋𝗈𝗃𝖾𝖼𝗍𝗌
-
-<a href="https://github.com/dogaaydinn/Geo_Sentiment_Climate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=Geo_Sentiment_Climate&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Geo_Sentiment_Climate"></a>
-<a href="https://github.com/dogaaydinn/EasyBuy.BE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=EasyBuy.BE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="EasyBuy.BE"></a>
-<a href="https://github.com/dogaaydinn/LeetCodeProblems"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=LeetCodeProblems&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="LeetCodeProblems"></a>
-<a href="https://github.com/dogaaydinn/SchoolManagementSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=SchoolManagementSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SchoolManagementSystem"></a>
-<a href="https://github.com/dogaaydinn/PMT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=PMT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="PMT"></a>
-<a href="https://github.com/dogaaydinn/LearningPath"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=LearningPath&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="LearningPath"> </a><a href="https://github.com/dogaaydinn/PMT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dogaaydinn&repo=LeetCodeProblems&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Project Management Tools"></a>
-
-  <h3> <strong> 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌, 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌 𝖺𝗇𝖽 𝖳𝗈𝗈𝗅𝗌
- </strong></h3>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vite,vue,webstorm,html,css,tailwind,js,ts,react,redux,java,arduino,mysql,docker,postgres,bootstrap,rider,selenium,devto,postman,figma,docker,postgres,azure,python,pycharm" alt="skills logos" />
-  <br> 
-
-# 📊 𝖦𝗂𝗍𝖧𝗎𝖻 𝖲𝗍𝖺𝗍𝗌:
-
-
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dogaaydinn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dogaaydinn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  <a href="https://wakatime.com/@dogaaydinn" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/wakatime?username=dogaaydinn&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
-  </a>
-  <br>
-
-
-  <a href="https://github.com/dogaaydinn/github-readme-activity-graph"><img alt="dogaaydin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dogaaydinn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-## 🏆 𝖦𝗂𝗍𝖧𝗎𝖻 𝖳𝗋𝗈𝗉𝗁𝗂𝖾𝗌
-![](https://github-profile-trophy.vercel.app/?username=dogaaydinn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</p>
 
 ---
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="200" alt="coding gif"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👋 About Me
+
+𝙸'𝚖 𝚊 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐 𝚒𝚗 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎, 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗-𝚛𝚎𝚊𝚍𝚢 𝚜𝚢𝚜𝚝𝚎𝚖𝚜.
+
+**🏗️ Architecture:** Clean Architecture, CQRS, DDD, Event Sourcing
+**⚙️ Tech Stack:** C# (.NET 8-9), Go, Rust, Python, TypeScript
+**☁️ Infrastructure:** Kubernetes, Terraform, DAPR, Istio
+**🤖 AI/ML:** Graph RAG, LLM Orchestration, MLOps, Vector Databases
+**📊 Data:** PostgreSQL, Redis, Neo4j, Kafka, Apache Airflow
+
+**🎯 Current Focus:**
+Building distributed systems that handle **10K+ requests/second** with enterprise-grade reliability, security, and observability.
+
+<br clear="right"/>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [Nexus Prime](https://github.com/dogaaydinn/nexus-prime)
+**Polyglot AI Orchestration Platform**
+
+Multi-agent system with Graph RAG and enterprise SSO integration.
+
+**Tech:** Go • Rust • Python • TypeScript
+**Features:**
+- 🔥 12K+ req/sec, <100ms latency (p95)
+- 🧠 Graph RAG with Neo4j + Vector DB
+- 🔐 Enterprise SSO (SAML, OIDC, OAuth2)
+- 📊 Real-time cost tracking & forecasting
+- ☸️ Kubernetes-native with Helm charts
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🏢 [All-in-One Platform](https://github.com/dogaaydinn/all-in-one)
+**Enterprise Microservices Platform**
+
+Production-grade platform with 6 microservices and MLOps infrastructure.
+
+**Tech:** Go • Python • Node.js
+**Features:**
+- ⚡ Event-driven architecture (CQRS, Saga)
+- 🤖 ML model training & A/B testing
+- ☁️ Multi-cloud Terraform (AWS/Azure/GCP)
+- 📈 Real-time analytics & monitoring
+- 🔒 Zero-trust security model
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📋 [ProjectPulse](https://github.com/dogaaydinn/ProjectPulse.Backend)
+**Clean Architecture Task Management**
+
+Enterprise task management built with DDD and CQRS patterns.
+
+**Tech:** .NET 8 • C# • PostgreSQL
+**Features:**
+- 🏛️ Clean Architecture + DDD
+- 🔄 CQRS with MediatR
+- 🧪 Mutation testing for code quality
+- 🐳 Docker + K8s deployment
+- 📊 Apache Airflow data pipelines
+- 🔐 HashiCorp Vault integration
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🎁 [WishList](https://github.com/dogaaydinn/wishlist)
+**Full-Stack Social Platform**
+
+Monorepo with 13 microservices, ML recommendations, and real-time features.
+
+**Tech:** Next.js • NestJS • React Native
+**Features:**
+- 📱 Web + Mobile (React Native with Expo)
+- 🤝 13 microservices (Turborepo monorepo)
+- 🧠 ML recommendation engine (collaborative + content-based)
+- 🌐 Neo4j for social graph analysis
+- 🔒 SOC 2 Type II certified infrastructure
+- ⚡ Real-time collaboration with WebSockets
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛒 [EasyBuy.BE](https://github.com/dogaaydinn/EasyBuy.BE)
+**E-Commerce Backend**
+
+Production-ready e-commerce platform with CQRS and event-driven architecture.
+
+**Tech:** .NET 9 • C# 13 • PostgreSQL
+**Features:**
+- 🏗️ Clean Architecture + CQRS
+- 💳 Stripe payment integration
+- 📦 Real-time inventory management
+- 🧪 60%+ test coverage (xUnit)
+- 🐳 Docker Compose orchestration
+
+![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🌍 [Geo Sentiment Climate](https://github.com/dogaaydinn/Geo_Sentiment_Climate)
+**AI/ML Data Analytics Platform**
+
+Climate data + social sentiment analysis with Apache Airflow pipelines.
+
+**Tech:** Python • Airflow • Kubernetes
+**Features:**
+- 📊 Apache Airflow DAG orchestration
+- 🐳 Kubernetes + Helm deployment
+- 📈 Pandas, NumPy for data processing
+- ☁️ Multi-environment Docker Compose
+- 🔍 Geographic sentiment correlation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/dogaaydinn?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+</p>
+
+---
+
+## 💼 Technical Expertise
+
+### **Architecture & Design Patterns**
+```
+Clean Architecture • CQRS • DDD • Event Sourcing • Microservices
+Saga Pattern • Circuit Breaker • Repository Pattern • Unit of Work
+```
+
+### **Languages & Frameworks**
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### **Infrastructure & DevOps**
+<p>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+</p>
+
+### **Databases & Messaging**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+</p>
+
+### **AI/ML & Data**
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
+
+### **Observability & Monitoring**
+```
+Prometheus • Grafana • Jaeger • ELK Stack • OpenTelemetry
+Serilog • Seq • Datadog
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dogaaydinn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogaaydinn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=Jupyter%20Notebook" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogaaydinn&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=dogaaydinn&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dogaaydinn&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+</p>
+
+---
+
+## 📝 Latest Blog Posts
+
+<a href="https://dev.to/dogaaydinn/from-arpanet-to-the-internet-the-birth-and-evolutionary-journey-of-technology-190c">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  <strong>From ARPANET to the Internet: The Birth and Evolutionary Journey of Technology</strong>
+</a>
+
+<a href="https://dev.to/dogaaydinn/journey-through-the-net-world-behind-old-and-new-names-393h">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  <strong>Journey Through the Net: World Behind Old and New Names</strong>
+</a>
+
+<a href="https://dev.to/dogaaydinn/the-history-and-importance-of-c-in-the-software-industry-if2">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  <strong>The History and Importance of C# in the Software Industry</strong>
+</a>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/dogaaydinn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dogaaydin5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://medium.com/@dogaaydin5">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://dev.to/dogaaydinn">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://instagram.com/doga.aydin1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/u/meatballrain/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <i>💡 "Building scalable systems is not just about code—it's about architecture, observability, and operational excellence."</i>
+</p>
+
+<p align="center">
+  <sub>⭐ If you find my projects interesting, consider starring them!</sub>
+</p>
